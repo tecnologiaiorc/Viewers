@@ -194,7 +194,7 @@ class ViewerMain extends Component {
     //StackManager.clearStacks();
     // @TypeSafeStudies
     // Clears OHIF.viewer.Studies collection
-    //OHIF.viewer.Studies.removeAll();
+    OHIF.viewer.Studies.removeAll();
     // @TypeSafeStudies
     // Clears OHIF.viewer.StudyMetadataList collection
     //OHIF.viewer.StudyMetadataList.removeAll();
